@@ -1,0 +1,32 @@
+{
+  "profiles": [
+    {
+      "colorScheme": "Ruby for Good",
+      "fontFace": "Cascadia Mono",
+      "fontSize": 11
+    }
+  ],
+  "schemes": [
+    {
+      "name": "Ruby for Good",
+      "background": "#211F1F",
+      "foreground": "#F8F8F2",
+      "black": "#211F1F",
+      "red": "#FF6B6B",
+      "green": "#A8E6A3",
+      "yellow": "#FFD166",
+      "blue": "#8AB4F8",
+      "purple": "#C792EA",
+      "cyan": "#78DCE8",
+      "white": "#F8F8F2",
+      "brightBlack": "#6E6A6A",
+      "brightRed": "#FF8A8A",
+      "brightGreen": "#C8F7C5",
+      "brightYellow": "#FFE29A",
+      "brightBlue": "#A9C7FF",
+      "brightPurple": "#E0B7FF",
+      "brightCyan": "#A8F0F5",
+      "brightWhite": "#FFFFFF"
+    }
+  ]
+}
